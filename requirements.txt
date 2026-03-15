@@ -1,0 +1,15 @@
+numpy
+torch>=2.3.0
+transformers>=4.49.0
+accelerate>=0.29.3
+sentencepiece
+
+matplotlib
+seaborn
+
+pot
+geomloss
+
+openai
+sacrebleu
+unbabel-comet

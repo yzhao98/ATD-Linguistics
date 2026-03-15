@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data and results
+data/
+!data/wmt.test.fr-en.en
+model/
+models--*/
+Meta-Llama-*/
+results*/
+output/
+*.pkl
+*.csv
+
+# Environment
+.env
+*.egg
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Claude
+.claude/
